@@ -1,0 +1,3 @@
+<template>
+    productList
+</template>
